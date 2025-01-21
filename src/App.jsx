@@ -1,5 +1,5 @@
 import React from "react";
-import MapCurationPlaces from "./MapCurationPlaces";
+import MapCurationPlaces from "./MapView/MapCurationPlaces";
 
 function App() {
   return (
